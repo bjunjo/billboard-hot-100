@@ -50,5 +50,5 @@ playlist_id = new_playlist['id']
 sp.playlist_add_items(playlist_id, song_uris)
 ```
 ## Lessons
-1.API is awesome. Once I figure out how it works, it does stuff automatically.
+1. API is awesome. Once I figure out how it works, it does stuff automatically.
 2. Authentication then implementation
